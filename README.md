@@ -26,6 +26,9 @@
   
   Once started, answer each question presented with necessay information, after the last question is answered "Success" will be logged and the README.md file will be present in the Repo.
   
+  Watch Usage Video: 
+  https://drive.google.com/file/d/10_lATE7efq_dnBaHxDHsHpw44I2aNKhf/view
+
   ## Credits
   
   N/A
