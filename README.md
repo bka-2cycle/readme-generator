@@ -26,6 +26,10 @@
   
   Once started, answer each question presented with necessay information, after the last question is answered "Success" will be logged and the README.md file will be present in the Repo.
   
+Image shows user inputs in blue.
+
+![image of command line prompts with answers](assets/screenshot-01.png)
+
   Watch Usage Video: 
   https://drive.google.com/file/d/10_lATE7efq_dnBaHxDHsHpw44I2aNKhf/view
 
