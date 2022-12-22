@@ -102,7 +102,7 @@ inquirer
 
   ## Contributing
   
-  ${data.contribute}
+  ${data.contributing}
   
   ## Tests
   

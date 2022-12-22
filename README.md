@@ -1,11 +1,11 @@
-# ReadMe Generator
+# ReadMe File Generator
   
 
   ![license badge](https://img.shields.io/static/v1?label=License&message=MIT&color=brightgreen)
 
   ## Description
   
-  This app allows a user to create a ReadMe file via the command line using nodeJS
+  Allows the user to quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project. By utilizing the Inquirer package in NodeJS we can generate all the content for a quality README file.
   
   ## Table of Contents
   
@@ -20,11 +20,11 @@
   
   ## Installation
   
-  Run node index.js in the command line
+  Command Line: "node index.js" to start the app
   
   ## Usage
   
-  Follow the prompts in the command line, answer each question accordingly
+  Once started, answer each question presented with necessay information, after the last question is answered "Success" will be logged and the README.md file will be present in the Repo.
   
   ## Credits
   
@@ -32,7 +32,7 @@
 
   ## Contributing
   
-  undefined
+  N/A
   
   ## Tests
   
